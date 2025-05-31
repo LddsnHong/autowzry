@@ -2,7 +2,7 @@
   <h1 align="center">
     <img src="https://cndaqiang.github.io/wzry.doc/wzry.favicon.png" width="140">
     <br/>
-    自动化农活演示
+    王者荣耀自动化农活演示
   </h1>
 </div>
 <div align="center">
